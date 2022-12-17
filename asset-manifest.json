@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/g2g/static/css/main.00f79c62.chunk.css",
-    "main.js": "/g2g/static/js/main.f4076969.chunk.js",
-    "main.js.map": "/g2g/static/js/main.f4076969.chunk.js.map",
-    "runtime-main.js": "/g2g/static/js/runtime-main.db9bcf57.js",
-    "runtime-main.js.map": "/g2g/static/js/runtime-main.db9bcf57.js.map",
-    "static/js/2.2cbfc211.chunk.js": "/g2g/static/js/2.2cbfc211.chunk.js",
-    "static/js/2.2cbfc211.chunk.js.map": "/g2g/static/js/2.2cbfc211.chunk.js.map",
-    "index.html": "/g2g/index.html",
-    "precache-manifest.d659e15b6490000c5ddf71b790e86ee1.js": "/g2g/precache-manifest.d659e15b6490000c5ddf71b790e86ee1.js",
-    "service-worker.js": "/g2g/service-worker.js",
-    "static/css/main.00f79c62.chunk.css.map": "/g2g/static/css/main.00f79c62.chunk.css.map",
-    "static/js/2.2cbfc211.chunk.js.LICENSE": "/g2g/static/js/2.2cbfc211.chunk.js.LICENSE",
-    "static/media/mail.svg": "/g2g/static/media/mail.d4e376e5.svg",
-    "static/media/newsletter.svg": "/g2g/static/media/newsletter.81a5bb3d.svg",
-    "static/media/privacy.md": "/g2g/static/media/privacy.71f30eae.md"
+    "main.css": "/LP/static/css/main.00f79c62.chunk.css",
+    "main.js": "/LP/static/js/main.cbb81efa.chunk.js",
+    "main.js.map": "/LP/static/js/main.cbb81efa.chunk.js.map",
+    "runtime-main.js": "/LP/static/js/runtime-main.55506222.js",
+    "runtime-main.js.map": "/LP/static/js/runtime-main.55506222.js.map",
+    "static/js/2.2cbfc211.chunk.js": "/LP/static/js/2.2cbfc211.chunk.js",
+    "static/js/2.2cbfc211.chunk.js.map": "/LP/static/js/2.2cbfc211.chunk.js.map",
+    "index.html": "/LP/index.html",
+    "precache-manifest.d1c51160d7210b3bb021762d687116df.js": "/LP/precache-manifest.d1c51160d7210b3bb021762d687116df.js",
+    "service-worker.js": "/LP/service-worker.js",
+    "static/css/main.00f79c62.chunk.css.map": "/LP/static/css/main.00f79c62.chunk.css.map",
+    "static/js/2.2cbfc211.chunk.js.LICENSE": "/LP/static/js/2.2cbfc211.chunk.js.LICENSE",
+    "static/media/mail.svg": "/LP/static/media/mail.d4e376e5.svg",
+    "static/media/newsletter.svg": "/LP/static/media/newsletter.81a5bb3d.svg",
+    "static/media/privacy.md": "/LP/static/media/privacy.71f30eae.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.db9bcf57.js",
+    "static/js/runtime-main.55506222.js",
     "static/js/2.2cbfc211.chunk.js",
     "static/css/main.00f79c62.chunk.css",
-    "static/js/main.f4076969.chunk.js"
+    "static/js/main.cbb81efa.chunk.js"
   ]
 }
